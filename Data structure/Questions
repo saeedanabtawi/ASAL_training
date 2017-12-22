@@ -1,0 +1,47 @@
+Question #1: 
+	Implement a stack from an array. Write the following functions:
+    • push: to insert an element to top of stack. 
+    • pop: to remove top element from stack.
+    • Is_empty: to check if the stack empty or not.
+    • is_full: to check if the stack full or not.
+Question #2: 
+	Implement a queue from an array. Write the following functions:
+    • enqueue: Adds and item to the queue. 
+    • dequeue: Removes an item from the queue.
+    • Is_empty: to check if the queue empty or not.
+    • is_full: to check if the queue full or not.
+Question #3: 
+	Write a full Implementation for a link-list with the following functions:
+    • Insert(node): to insert an element to the top of a link-list.
+    • Insert_after(node, n): to insert an element to a link-list after key n for a node , if n is not exists add it as a first element. 
+    • delete(node): to remove an element from a link-list.
+    • Is_empty: to check if the link-list is empty or not.
+    • Insert_to_last(node): to insert an element to the end of a link-list.
+    • Note: Your link-list should have a node with key (int) and next (pointer). 
+Question #4: 
+	Write a function to reverse a link-list.
+Question #5:
+	Write a function to detect a loop in a link-list. (2 different ways).
+Question #6: 
+	Two linked-list are given, write a function to determine if these linked-list intersect or not: 
+(3 different ways)
+Question #7: 
+	Given a single linked-list, determine if it is a palindrome or not.
+Question #8:
+	Write a function to get the second largest number.
+Question #10: 
+Write a program to find the Fibonacci series number that corresponds to a given index in the series. 
+(in 2 different ways)
+Question #11: 
+Given array of n integers and given a number X, find all the unique pairs of elements (a,b), whose sum is equal to X..
+Question #12:
+Write a function to parse and  validate an IP address in C code. 	
+Question #13: 
+Build a structure to hold phone numbers for telephone company where the search process if a number exist or not should be done efficiently (tree)
+Question #14: 
+Build a phone directory to search someone’s phone number using his name(hash)
+Question #15:
+Write a function to compare two strings	
+Question #16: 
+Implement a data structure for which get, set and set_all to be performed in  O(1)	
+
