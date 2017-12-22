@@ -30,18 +30,18 @@ Question #7:
 Question #8:
 	Write a function to get the second largest number.
 Question #10: 
-Write a program to find the Fibonacci series number that corresponds to a given index in the series. 
+	Write a program to find the Fibonacci series number that corresponds to a given index in the series. 
 (in 2 different ways)
 Question #11: 
-Given array of n integers and given a number X, find all the unique pairs of elements (a,b), whose sum is equal to X..
+	Given array of n integers and given a number X, find all the unique pairs of elements (a,b), whose sum is equal to X..
 Question #12:
-Write a function to parse and  validate an IP address in C code. 	
+	Write a function to parse and  validate an IP address in C code. 	
 Question #13: 
-Build a structure to hold phone numbers for telephone company where the search process if a number exist or not should be done efficiently (tree)
+	Build a structure to hold phone numbers for telephone company where the search process if a number exist or not should be done efficiently (tree)
 Question #14: 
-Build a phone directory to search someone’s phone number using his name(hash)
+	Build a phone directory to search someone’s phone number using his name(hash)
 Question #15:
-Write a function to compare two strings	
+	Write a function to compare two strings	
 Question #16: 
-Implement a data structure for which get, set and set_all to be performed in  O(1)	
+	Implement a data structure for which get, set and set_all to be performed in  O(1)	
 
